@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @younesious
-- 👀 I’m interested in back-end, AI and ML
-- 🌱 I’m currently learning PHP/Laravel and ML
-- 💞️ I’m looking to collaborate on PHP/Laravel developer
+- 👀 I’m interested in Linux, Golang and AI news.
+- 🌱 I’m currently learning Golang.
+- 💞️ I’m looking to collaborate on Golang developer
 - 📫 How to reach me? @younesious in social media
 
 <!---
