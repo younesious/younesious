@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @younesious
+- 👋 Hi, I’m Younes Mahmoudi
 - 👀 I’m interested in Linux, Golang and AI news.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on Golang developer
-- 📫 How to reach me? @younesious in social media
+- 📫 How to reach me? @Younesious in social media
 
 <!---
 younesious/younesious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
